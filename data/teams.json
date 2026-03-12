@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Celtics",
+        "city": "Boston",
+        "Championships": 17,
+        "pet": "Lucky",
+        "arena": "TD Garden"
+    },
+    {
+        "id": 2,
+        "name": "Lakers",
+        "city": "Los Angeles",
+        "Championships": 17,
+        "pet": "Magic",
+        "arena": "Crypto.com Arena"
+    },
+    {
+        "id": 3,
+        "name": "Warriors",
+        "city": "San Francisco",
+        "Championships": 7,
+        "pet": "Thunder",
+        "arena": "Chase Center"
+    },
+    {
+        "id": 4,
+        "name": "Bulls",
+        "city": "Chicago",
+        "Championships": 6,
+        "pet": "Benny",
+        "arena": "United Center"
+    },
+    {
+        "id": 5,
+        "name": "Spurs",
+        "city": "San Antonio",
+        "Championships": 5,
+        "pet": "The Coyote",
+        "arena": "AT&T Center"
+    },
+    {
+        "id": 6,
+        "name": "Heat",
+        "city": "Miami",
+        "Championships": 3,
+        "pet": "Burnie",
+        "arena": "Kaseya Center"
+    },
+    {
+        "id": 7,
+        "name": "Knicks",
+        "city": "New York",
+        "Championships": 2,
+        "pet": "Knuckles",
+        "arena": "Madison Square Garden"
+    },
+    {
+        "id": 8,
+        "name": "Raptors",
+        "city": "Toronto",
+        "Championships": 1,
+        "pet": "The Raptor",
+        "arena": "Scotiabank Arena"
+    },
+    {
+        "id": 9,
+        "name": "Bucks",
+        "city": "Milwaukee",
+        "Championships": 2,
+        "pet": "Bango",
+        "arena": "Fiserv Forum"
+    },
+    {
+        "id": 10,
+        "name": "76ers",
+        "city": "Philadelphia",
+        "Championships": 3,
+        "pet": "Franklin",
+        "arena": "Wells Fargo Center"
+    }
+]
