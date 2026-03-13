@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Celtics",
         "city": "Boston",
-        "Championships": 17,
+        "championships": 17,
         "pet": "Lucky",
         "arena": "TD Garden"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "name": "Lakers",
         "city": "Los Angeles",
-        "Championships": 17,
+        "championships": 17,
         "pet": "Magic",
         "arena": "Crypto.com Arena"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "name": "Warriors",
         "city": "San Francisco",
-        "Championships": 7,
+        "championships": 7,
         "pet": "Thunder",
         "arena": "Chase Center"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "name": "Bulls",
         "city": "Chicago",
-        "Championships": 6,
+        "championships": 6,
         "pet": "Benny",
         "arena": "United Center"
     },
@@ -35,15 +35,15 @@
         "id": 5,
         "name": "Spurs",
         "city": "San Antonio",
-        "Championships": 5,
+        "championships": 5,
         "pet": "The Coyote",
-        "arena": "AT&T Center"
+        "arena": "AT\u0026T Center"
     },
     {
         "id": 6,
         "name": "Heat",
         "city": "Miami",
-        "Championships": 3,
+        "championships": 3,
         "pet": "Burnie",
         "arena": "Kaseya Center"
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "name": "Knicks",
         "city": "New York",
-        "Championships": 2,
+        "championships": 2,
         "pet": "Knuckles",
         "arena": "Madison Square Garden"
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "name": "Raptors",
         "city": "Toronto",
-        "Championships": 1,
+        "championships": 1,
         "pet": "The Raptor",
         "arena": "Scotiabank Arena"
     },
@@ -67,7 +67,7 @@
         "id": 9,
         "name": "Bucks",
         "city": "Milwaukee",
-        "Championships": 2,
+        "championships": 2,
         "pet": "Bango",
         "arena": "Fiserv Forum"
     },
@@ -75,8 +75,24 @@
         "id": 10,
         "name": "76ers",
         "city": "Philadelphia",
-        "Championships": 3,
+        "championships": 3,
         "pet": "Franklin",
         "arena": "Wells Fargo Center"
+    },
+    {
+        "id": 11,
+        "name": "Kings",
+        "city": "Sacramento",
+        "championships": 1,
+        "pet": "Slamson",
+        "arena": "Golden 1 Center"
+    },
+    {
+        "id": 12,
+        "name": "Wizards",
+        "city": "Washington",
+        "championships": 1,
+        "pet": "G-Wiz",
+        "arena": "Capital One Arena"
     }
 ]
